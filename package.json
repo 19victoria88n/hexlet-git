@@ -1,0 +1,18 @@
+{
+  "name": "hexlet-git",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "version": "1.0.0",
+  "description": "No code No pain experiment with amend",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
